@@ -1,0 +1,21 @@
+# LangChain core
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-core==0.2.32
+langchain-groq==0.1.9
+
+# Validation & parsing
+pydantic==2.7.1
+unstructured==0.15.0
+
+# Vector DB
+chromadb==0.5.0
+onnxruntime==1.23.2
+tokenizers==0.15.2
+sentence-transformers==2.7.0
+
+# Data & UI
+pandas==2.0.2
+selenium==4.21.0
+streamlit==1.35.0
+python-dotenv==1.0.0
